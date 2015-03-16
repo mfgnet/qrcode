@@ -1,0 +1,7 @@
+C:\Users\Olive.C\Documents\Visual Studio 2012\Projects\QrCodeDemo\QRCodeGenerator\bin\Debug\QRCodeGenerator.dll
+C:\Users\Olive.C\Documents\Visual Studio 2012\Projects\QrCodeDemo\QRCodeGenerator\bin\Debug\QRCodeGenerator.pdb
+C:\Users\Olive.C\Documents\Visual Studio 2012\Projects\QrCodeDemo\QRCodeGenerator\bin\Debug\Gma.QrCodeNet.Encoding.Net45.dll
+C:\Users\Olive.C\Documents\Visual Studio 2012\Projects\QrCodeDemo\QRCodeGenerator\bin\Debug\Gma.QrCodeNet.Encoding.Net45.pdb
+C:\Users\Olive.C\Documents\Visual Studio 2012\Projects\QrCodeDemo\QRCodeGenerator\bin\Debug\Gma.QrCodeNet.Encoding.Net45.xml
+C:\Users\Olive.C\Documents\Visual Studio 2012\Projects\QrCodeDemo\QRCodeGenerator\obj\Debug\QRCodeGenerator.dll
+C:\Users\Olive.C\Documents\Visual Studio 2012\Projects\QrCodeDemo\QRCodeGenerator\obj\Debug\QRCodeGenerator.pdb

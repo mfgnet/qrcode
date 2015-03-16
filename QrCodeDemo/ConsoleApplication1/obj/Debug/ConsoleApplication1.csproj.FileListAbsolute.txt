@@ -1,0 +1,9 @@
+c:\users\olive.c\documents\visual studio 2012\Projects\QrCodeDemo\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\olive.c\documents\visual studio 2012\Projects\QrCodeDemo\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\olive.c\documents\visual studio 2012\Projects\QrCodeDemo\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\olive.c\documents\visual studio 2012\Projects\QrCodeDemo\ConsoleApplication1\bin\Debug\Gma.QrCodeNet.Encoding.Net45.dll
+c:\users\olive.c\documents\visual studio 2012\Projects\QrCodeDemo\ConsoleApplication1\bin\Debug\Gma.QrCodeNet.Encoding.Net45.pdb
+c:\users\olive.c\documents\visual studio 2012\Projects\QrCodeDemo\ConsoleApplication1\bin\Debug\Gma.QrCodeNet.Encoding.Net45.xml
+c:\users\olive.c\documents\visual studio 2012\Projects\QrCodeDemo\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\olive.c\documents\visual studio 2012\Projects\QrCodeDemo\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+c:\users\olive.c\documents\visual studio 2012\Projects\QrCodeDemo\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
